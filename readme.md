@@ -10,27 +10,27 @@
     * https://nodejs.org/en/download/
   * cd into this directory
   1. Install dependencies with
-    - npm install
+      - npm install
   2. Run app with
-    - npm start path_to_file
+      - npm start path_to_file
   3. Run the tests with
-    - npm test
+      - npm test
 
 #### Requirements
   1. Does the solution run and work
-    - Yes
+      - Yes
   2. Code cleanliness and organization
-    - Pulled out the code that does the work into a class with one function exposed
-    - Code is commented and explained
-    - Readme details how I arrived at my solution
+      - Pulled out the code that does the work into a class with one function exposed
+      - Code is commented and explained
+      - Readme details how I arrived at my solution
   3. Testing
-    - Testing implemented with mocha
+      - Testing implemented with mocha
   4. Documentation
-    - Code is documented and readme gives credit where credit is due
-    - Readme explains how to run the tests, how to run the app and
+      - Code is documented and readme gives credit where credit is due
+      - Readme explains how to run the tests, how to run the app and
       how I arrived at my conclusion.
   5. Does the solution work well
-    - There are many error checks in place
+      - There are many error checks in place
 
 #### Above and Beyond
   - Functional calc document that solves the hungarian algorithm
