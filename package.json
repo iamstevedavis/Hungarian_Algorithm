@@ -1,0 +1,22 @@
+{
+  "name": "DiscountOffers",
+  "version": "0.1.0",
+  "description": "Calculate the best discount offer combination for customers.",
+  "main": "app.js",
+  "author": "Steve Davis",
+  "dependencies": {
+    "munkres-js": "^1.2.2",
+    "mocha": "3.2.0",
+    "bluebird": "3.5.0",
+    "should": "11.2.1",
+    "chai": "3.5.0"
+  },
+  "scripts": {
+    "test": "mocha tests",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=6.9.1",
+    "npm": "~3.10.8"
+  }
+}
